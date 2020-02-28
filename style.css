@@ -584,7 +584,7 @@ h2 {
       padding-bottom: 0; }
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   .banner {
   position: relative;
   min-height: 60vh;
@@ -598,4 +598,4 @@ h2 {
   font-size: 2em
 }
 
-}
+} */
